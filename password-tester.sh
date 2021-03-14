@@ -1,5 +1,5 @@
 #!/bin/bash
-filename='pw-list.txt'
+filename='password-list.txt'
 n=1
 while read line; do
 # reading each line
